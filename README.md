@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @APlusTotalgut
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-/paint+a+t
-
-
-<!---
-APlusTotalgut/APlusTotalgut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in web devolopment and coding python. I also play soccer.
+- 🌱 I’m currently learning HTML, CSS, JS and PHP with laravel framework.
+- 💞️ I’m looking to collaborate on all kinds of web devolopment project.
+- 📫 You can reach me via instagramm DM to @anusbelchen
